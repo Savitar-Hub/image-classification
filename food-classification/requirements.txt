@@ -2,3 +2,5 @@ jupyter==1.0.0
 Pillow==9.4.0
 pandas==1.5.3
 seaborn==1.16.0
+torch==1.13.1
+torchvision==0.14.1
