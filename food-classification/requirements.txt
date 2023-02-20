@@ -1,1 +1,2 @@
 jupyter==1.0.0
+Pillow==9.4.0
