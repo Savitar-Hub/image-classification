@@ -1,0 +1,4 @@
+# Ignore common files
+venv
+*.env
+data
