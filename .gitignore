@@ -4,3 +4,6 @@ venv
 data
 .ipynb_checkpoints
 TODO.md
+
+# Training files
+ignore.pt
