@@ -17,7 +17,7 @@ Some use cases of image classification:
 
 There are various classification tasks, which could have a direct application into businesses:
 
-- [Food Classification](./food-classification/) - EXAMPLE CASE: which food is posted about our restaurant so we know which recipes are having an impact on customer satisfaction.
+- [Food Classification](./food-classification/) - EXAMPLE CASE: which food is posted in social media about our restaurant so we know which recipes are having an impact on customer satisfaction.
 
 
 Also, inside of the [models](./models/) folder, you have implementation of some of the most popular algorithms for image classification, as well as information (papers) related to them. The models created are the following:
